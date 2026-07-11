@@ -9,11 +9,7 @@
 This repository is a **Centralized Knowledge Hub (200+ Resources)** designed for AI Architects. It bridges the gap between theoretical research and real-world system engineering.
 
 ---
-## 🧭 Navigation
-| [Orchestration](#-1-orchestration--rag-pipelines) | [Agents](#-2-agentic-reasoning--autonomy) | [Inference](#-3-inference--high-performance-serving) | [Databases](#-4-vector-databases) | [Evaluation](#-5-evaluation-observability) | [MLOps](#-6-mlops--infrastructure) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 
----
 ## 🏛️ The Master Resource Index
 
 ### ⚙️ 1. Orchestration & RAG Pipelines (40 Resources)
